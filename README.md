@@ -68,3 +68,9 @@ Se procesaron **667 semanas de registros históricos** (Dataset IPAP y Transacci
 │   ├── app.py                     # Aplicación Web Streamlit (AgroDecide + DANE)
 │   └── analisis_estadistico.py    # Script de procesamiento y pruebas estadísticas
 └── README.md                      # Documentación principal del proyecto
+
+## 📓 Enlace al Cuaderno de Google Colab
+Puedes explorar el código fuente, la validación de datos y las pruebas estadísticas ejecutadas en la nube:
+* [🔗 Abrir Cuaderno de Análisis Estadístico en Google Colab](## 📓 Enlace al Cuaderno de Google Colab
+Puedes explorar el código fuente, la validación de datos y las pruebas estadísticas ejecutadas en la nube:
+* [🔗 Abrir Cuaderno de Análisis Estadístico en Google Colab](https://colab.research.google.com/drive/1CIwtrEcY8-I4MMXpImFEDGbIo_dqgv6c)
